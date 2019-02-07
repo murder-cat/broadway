@@ -1,0 +1,45 @@
+html {
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+}
+
+.home{
+  color: white;
+  background-image: url("../images/building.png");
+  font-size: 30px;
+}
+
+.home a {
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  padding-bottom: 5px;
+}
+
+ul {
+  list-style: none;
+}
+
+p{
+  font-size: 14px;
+}
+
+.newyork h2{
+  background-image: url("../images/building.png");
+  color: white;
+}
+
+.footer{
+  background-color: dimgray;
+  color: white;
+}
+
+.footer li{
+  display: inline;
+  font-size: 11px;
+  color: white;
+}
+
+a{
+  color: white;
+}
